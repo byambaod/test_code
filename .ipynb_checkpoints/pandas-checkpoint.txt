@@ -1,0 +1,1 @@
+import pandas as pd df = pd.DataFrame({'data1': [3, 2, 1], 'data2': [1, 4, 2]}, index=['sample 1', 'sample 2', 'sample 3'])
